@@ -1,0 +1,18 @@
+A B S 200
+
+B S S 200
+
+C S G 300
+
+D B G 200
+
+E B G 200
+
+W S H 200
+
+X S H 200
+
+Y S H 200
+
+Z B H 600
+ 

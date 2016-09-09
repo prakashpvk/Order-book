@@ -1,0 +1,36 @@
+[Stock S Message-Received]: A , your order to buy with quantity200 has been received
+[Message-Status]: A , your order has been partially fuifiled, the rest of your order ( 200 ) is now
+in the list
+[Message-Transaction]: B, Your order is fully completed with the counterparty A
+[Message-Transaction]: A, Your order is partially completed with the counterparty B with volume of 2
+00
+Message-No counterparty]: C , No available counterparty founded, your order has been added in the or
+der list
+[Message-Status]: C , your order has been partially fuifiled, the rest of your order ( 300 ) is now
+in the list
+[Stock G Message-Received]: D , your order to buy with quantity200 has been received
+[Message-Transaction]: D, Your order is fully completed with the counterparty C
+[Message-Transaction]: C, Your order is partially completed with the counterparty D with volume of 2
+00
+[Stock G Message-Received]: E , your order to buy with quantity200 has been received
+[Message-Transaction]: C, Your order is fully completed with the counterparty E
+[Message-Transaction]: E, Your order is partially completed with the counterparty C with volume of 1
+00
+[Message-Status]: E , your order has been partially fuifiled, the rest of your order ( 100 ) is now
+in the list
+[Message-Status]: W , your order has been partially fuifiled, the rest of your order ( 200 ) is now
+in the list
+[Message-Status]: X , your order has been partially fuifiled, the rest of your order ( 200 ) is now
+in the list
+[Message-Status]: Y , your order has been partially fuifiled, the rest of your order ( 200 ) is now
+in the list
+[Stock H Message-Received]: Z , your order to buy with quantity600 has been received
+[Message-Transaction]: W, Your order is fully completed with the counterparty Z
+[Message-Transaction]: Z, Your order is partially completed with the counterparty W with volume of 2
+00
+[Message-Transaction]: X, Your order is fully completed with the counterparty Z
+[Message-Transaction]: Z, Your order is partially completed with the counterparty X with volume of 2
+00
+[Message-Transaction]: Z, Your order is fully completed with the counterparty Y
+[Message-Transaction]: Y, Your order is partially completed with the counterparty Z with volume of 2
+00
